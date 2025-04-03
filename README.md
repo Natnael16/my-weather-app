@@ -1,4 +1,4 @@
-# Weather App
+# My Weather App ☀️
 
 A single-screen Flutter weather app demonstrating Clean Architecture, BLoC for state management, and GetX for dependency injection. The app fetches real-time weather data from the OpenWeatherMap API, displays it in a user-friendly UI, and allows users to toggle between Fahrenheit and Celsius. Additionally, it includes a refresh functionality to update the weather information.
 
